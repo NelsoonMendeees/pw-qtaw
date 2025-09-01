@@ -20,6 +20,8 @@
     "trailingComma": "none"
   },
   "dependencies": {
+    "allure-commandline": "^2.34.1",
+    "allure-playwright": "^3.3.3",
     "bullmq": "^5.58.2",
     "pg-promise": "^12.0.0"
   }
